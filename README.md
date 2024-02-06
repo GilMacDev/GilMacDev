@@ -4,4 +4,4 @@
 
 ⚡ Focused on building impactful software/web applications
 
-📚 Continuously learning, exploring new tech, and looking to collaborate 🌐
+📚 Continuously learning, exploring new tech, and looking to collaborate 
