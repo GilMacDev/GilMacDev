@@ -1,5 +1,7 @@
 👨‍💻 Software Developer
+
 🎓 Graduate in Computer Programming and Analysis
+
 
 ⚡ Focused on building impactful software/web applications
 
